@@ -1,0 +1,22 @@
+{
+  "name": "github_review",
+  "version": "1.0.0",
+  "description": "New way to commit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drmez2020/GitHub_Review.git"
+  },
+  "keywords": [
+    "udacity"
+  ],
+  "author": "mohamed El-Ezabi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drmez2020/GitHub_Review/issues"
+  },
+  "homepage": "https://github.com/drmez2020/GitHub_Review#readme"
+}
