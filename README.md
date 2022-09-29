@@ -3,7 +3,10 @@
 its just sample node.js app
 
 includes:
-1- typescript
-2- nodemon
-3- prettier
-4- ESlint
+
+- typescript
+- nodemon
+- prettier
+- ESlint
+
+to run in develop mode `npm run dev`
